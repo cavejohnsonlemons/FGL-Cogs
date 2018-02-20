@@ -19,8 +19,8 @@ class Mayushii:
                 "What's up, {author.mention}?",
                 "(; ⌣_⌣) Okarin melted all my food again for some experiment...",
                 ("Have you seen Okarin, {author.mention}? "
-                     "\nHe was bubbling and being all sciency about his microwave again.(# ¯0¯) "
-                     "\nI think he's broken (> ω <) "),
+                     "\nHe was bubbling and being all sciencey about his microwave again.(# ¯0¯) "
+                     "\nI think he's broken (≧ ω ≦) "),
                 "Mayushii☆ loves hanging out with all the new labmembers~ ",
                 "I want to nap...",
                 "Hmmmmm I'm hungry...",
@@ -31,7 +31,7 @@ class Mayushii:
                 "Hmm hm hm hmm hm hmm ~♫",
                 ("I think cosplaying is super cute, don't you think? "
                      "\nAlthough I usually like making costumes instead of wearing them, haha~ "
-                     "\nThat's what friends are for! \ (^ ▽ ^) /"
+                     "\nThat's what friends are for! ヽ (^ ▽ ^) /"
                      "\nMaking them wear cosplay!"),
                 "Fun fact: My favourite food is chicken tenders, specifically 'Juicy Karaage Number 1'!",
                 ("We should work towards world peace."
@@ -47,7 +47,7 @@ class Mayushii:
             "Gate of Steiner" : ["That's that silly expression that Okarin says (⌒_⌒) \nI don't really know what it means, though..."],
             "christmas" : [("Christmas is really fun! I love giving gifts and tasty snacks to the lab members o (≧ ▽ ≦) o ",
                             "\nKurisu is the only labomen who understands it, because she used to live in America. ",
-                            "\nSo she helps me with decorations, even though it annoys Okarin(> ω ^) ",
+                            "\nSo she helps me with decorations, even though it annoys Okarin(^ ω ^) ",
                             "\nIt's not really big in Japan, though. ")]
         }
 
