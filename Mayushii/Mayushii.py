@@ -46,6 +46,7 @@ class Mayushii:
                             "\nbut I don't really think that's true. -_-")],
             "gate of steiner" : [("That's that silly expression that Okarin says (⌒_⌒) "
                                   "\nI don't really know what it means, though... ")],
+            "open the pod bay doors" : ["I'm sorry, {author.mention}. I'm afraid I can't do that. (oωo) "],
             "christmas" : [("Christmas is really fun! I love giving gifts and tasty snacks to the lab members o (≧ ▽ ≦) o "
                             "\nKurisu is the only labomen who understands it, because she used to live in America. "
                             "\nSo she helps me with decorations, even though it annoys Okarin because the lab is so small(^ ω ^) "
