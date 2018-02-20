@@ -48,7 +48,9 @@ class Mayushii:
             "christmas" : [("Christmas is really fun! I love giving gifts and tasty snacks to the lab members o (≧ ▽ ≦) o ",
                             "\nKurisu is the only labomen who understands it, because she used to live in America. ",
                             "\nSo she helps me with decorations, even though it annoys Okarin(^ ω ^) ",
-                            "\nIt's not really big in Japan, though. ")]
+                            "\nIt's not really big in Japan, though. ")],
+            "sing it for me" : [("It's called \"Daisy.\"\n\nDaisy, Daisy, give me your answer do. I'm half crazy all for the love of you. "
+                "It won't be a stylish marriage, I can't afford a carriage. But you'll look sweet upon the seat of a bicycle built for two.")]
         }
 
 
