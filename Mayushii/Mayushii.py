@@ -56,7 +56,7 @@ class Mayushii:
 
     @commands.command(pass_context=True, aliases=['Mayushii','Mayuri','Mayushii☆','mayuri','M','mayushii','say'])
     async def m(self, ctx, *, question="none"):
-        """Speak with Mayushii☆"""
+        """Speak with Mayushii☆ with m!m, m!say, m!mayuri, m!mayushii, etc.!"""
         author = ctx.message.author
         msg = ""
         found = []
