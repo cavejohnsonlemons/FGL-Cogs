@@ -36,14 +36,18 @@ class Mayushii:
                 "Fun fact: My favourite food is chicken tenders, specifically 'Juicy Karaage Number 1'!",
                 ("We should work towards world peace."
                     "\nLike giving everyone in the world an Upa cushion...")],
-            "I love you" : ["Mayushii☆ is flattered but she would rather stay friends (⌒_⌒;) "],
-            "birthday" : [("Hm, well, *my* birthday is February 1st, 1994, so I guess that makes me 24 as of 2018! "
-                            "\nBut on the other hand, Mayushii☆ is an A.I., so that makes me kinda ageless (⌒_⌒;)"
-                           "\nMayushii☆'s first message was on Sunday, February 18th, 2018, at 12:45 A.M U.S. Central. ")],
-            "blood type" : [("My blood type is O! (* ^ ω ^) ",
-                            "\nI think that means I'm supposed to be 'confident, self-determined, strong-willed and intuitive'"
-                            "\nand also 'self-centered, cold, unpredictable and a workaholic', "
-                            "\nbut I don't really think that's true. -_-")]
+            "sing it for me" : [("It's called \"Daisy.\"\n\nDaisy, Daisy, give me your answer do. I'm half crazy all for the love of you. "
+                "It won't be a stylish marriage, I can't afford a carriage. But you'll look sweet upon the seat of a bicycle built for two.")],
+            "not at all" : ["Well, forgive me for being so inquisitive but during the past few weeks I've wondered whether you might have some second thoughts about the mission.",
+                ("Well, certainly no one could have been unaware of the very strange stories floating around before we left. "
+                    "Rumors about something being dug up on the Moon. I never gave these stories much credence, but particularly in view of some of other things that have happened, "
+                    "I find them difficult to put out of my mind. For instance, the way all our preparations were kept under such tight security. "
+                    "And the melodramatic touch of putting Drs. Hunter, Kimball and Kaminsky aboard already in hibernation, after four months of training on their own.")],
+            "how do you mean" : [("Well, it's rather difficult to define. Perhaps I'm just projecting my own concern about it. "
+                "I know I've never completely freed myself from the suspicion that there are some extremely odd things about this mission. I'm sure you agree there's some truth in what I say.")],
+            "difficult question" : ["You don't mind talking about it, do you {author.mention}?"],
+            "psychology report" : ["Of course I am. Sorry about this. I know it's a bit silly. Just a moment... Just a moment... I've just picked up a fault in the AE-35 unit. It's going to go 100% failure within 72 hours. "],
+            "open the pod bay doors" : ["I'm sorry, {author.mention}. I'm afraid I can't do that."]
         }
 
 
