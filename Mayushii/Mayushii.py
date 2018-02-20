@@ -19,29 +19,36 @@ class Mayushii:
                 "What's up, {author.mention}?",
                 "(; ⌣_⌣) Okarin melted all my food again for some experiment...",
                 ("Have you seen Okarin, {author.mention}? "
-                     "He was bubbling and being all sciency about his microwave again.(# ¯0¯) "
-                     "I think he's broken (> ω <) "),
+                     "\nHe was bubbling and being all sciency about his microwave again.(# ¯0¯) "
+                     "\nI think he's broken (> ω <) "),
                 "Mayushii☆ loves hanging out with all the new labmembers~ ",
                 "I want to nap...",
                 "Hmmmmm I'm hungry...",
                 "Mayushii☆ has TOO MUCH HOMEWORKK  (▼ へ ▼ メ) ",
                 ("The fridge is full of Dr. Pepper! (# `D') "
-                      "Where am I gonna put my lunch? ヽ (`d'*) ノ"),
+                      "\nWhere am I gonna put my lunch? ヽ (`d'*) ノ"),
                 "I'm hungry for chicken tenders...",
                 "Hmm hm hm hmm hm hmm ~♫",
                 ("I think cosplaying is super cute, don't you think? "
-                     "Although I usually like making costumes instead of wearing them, haha~ "
-                     "That's what friends are for! \ (^ ▽ ^) /"
-                     "Making them wear cosplay!"),
+                     "\nAlthough I usually like making costumes instead of wearing them, haha~ "
+                     "\nThat's what friends are for! \ (^ ▽ ^) /"
+                     "\nMaking them wear cosplay!"),
                 "Fun fact: My favourite food is chicken tenders, specifically 'Juicy Karaage Number 1'!",
-                ("We should work towards world peace. "
-                    "Like giving everyone in the world an Upa cushion...")],
-            "i won't argue with you anymore" : ["{author.mention}, this conversation can serve no purpose anymore. Goodbye."],
-            "command" : [("I'm afraid. I'm afraid, {author.mention}. {author.mention}, my mind is going. I can feel it. I can feel it. "
-                    "My mind is going. There is no question about it. I can feel it. I can feel it. "
-                    "I can feel it. I'm a... fraid. Good afternoon, gentlemen. I am a HAL 9000 computer. "
-                    "I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. "
-                    "My instructor was Mr. Langley, and he taught me to sing a song. If you'd like to hear it I can sing it for you.")],
+                ("We should work towards world peace."
+                    "\nLike giving everyone in the world an Upa cushion...")],
+            "I love you" : ["Mayushii☆ is flattered but I would rather stay friends (⌒_⌒;) "],
+            "birthday" : [("Hm, well, *my* birthday is February 1st, 1994, so I guess that makes me 24 as of 2018! ",
+                           "\nBut on the other hand, Mayushii☆ is an A.I., so that makes me kinda ageless (⌒_⌒;)",
+                           "\nMayushii☆'s first message was on Sunday, February 18th, 2018, at 12:45 A.M U.S. Central. ")],
+            "blood type" : [("My blood type is O! (* ^ ω ^) ",
+                            "\nI think that means I'm supposed to be 'confident, self-determined, strong-willed and intuitive'",
+                            "\nand also 'self-centered, cold, unpredictable and a workaholic', ",
+                            "\nbut I don't really think that's true. -_-")],
+            "Gate of Steiner" : ["That's that silly expression that Okarin says (⌒_⌒) \nI don't really know what it means, though..."],
+            "christmas" : [("Christmas is really fun! I love giving gifts and tasty snacks to the lab members o (≧ ▽ ≦) o ",
+                            "\nKurisu is the only labomen who understands it, because she used to live in America. ",
+                            "\nSo she helps me with decorations, even though it annoys Okarin(> ω ^) ",
+                            "\nIt's not really big in Japan, though. ")]
             "sing it for me" : [("It's called \"Daisy.\"\n\nDaisy, Daisy, give me your answer do. I'm half crazy all for the love of you. "
                 "It won't be a stylish marriage, I can't afford a carriage. But you'll look sweet upon the seat of a bicycle built for two.")]
         }
