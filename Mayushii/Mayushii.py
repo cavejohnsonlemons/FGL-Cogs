@@ -21,7 +21,7 @@ class Mayushii:
                 ("Have you seen Okarin, {author.mention}? "
                      "\nHe was bubbling and being all sciencey about his microwave again.(# ¯0¯) "
                      "\nI think he's broken (≧ ω ≦) "),
-                "Mayushii☆ loves hanging out with all the new labmembers~ ",
+                "Mayushii☆ loves hanging out with all the new lab members~ ",
                 "I want to nap...",
                 "Hmmmmm I'm hungry...",
                 "Mayushii☆ has TOO MUCH HOMEWORKK  (▼ へ ▼ メ) ",
@@ -36,21 +36,19 @@ class Mayushii:
                 "Fun fact: My favourite food is chicken tenders, specifically 'Juicy Karaage Number 1'!",
                 ("We should work towards world peace."
                     "\nLike giving everyone in the world an Upa cushion...")],
-            "I love you" : ["Mayushii☆ is flattered but I would rather stay friends (⌒_⌒;) "],
-            "birthday" : [("Hm, well, *my* birthday is February 1st, 1994, so I guess that makes me 24 as of 2018! ",
-                           "\nBut on the other hand, Mayushii☆ is an A.I., so that makes me kinda ageless (⌒_⌒;)",
+            "I love you" : ["Mayushii☆ is flattered but she would rather stay friends (⌒_⌒;) "],
+            "birthday" : [("Hm, well, *my* birthday is February 1st, 1994, so I guess that makes me 24 as of 2018! "
+                           "\nBut on the other hand, Mayushii☆ is an A.I., so that makes me kinda ageless (⌒_⌒;)"
                            "\nMayushii☆'s first message was on Sunday, February 18th, 2018, at 12:45 A.M U.S. Central. ")],
             "blood type" : [("My blood type is O! (* ^ ω ^) ",
-                            "\nI think that means I'm supposed to be 'confident, self-determined, strong-willed and intuitive'",
-                            "\nand also 'self-centered, cold, unpredictable and a workaholic', ",
+                            "\nI think that means I'm supposed to be 'confident, self-determined, strong-willed and intuitive'"
+                            "\nand also 'self-centered, cold, unpredictable and a workaholic', "
                             "\nbut I don't really think that's true. -_-")],
-            "Gate of Steiner" : ["That's that silly expression that Okarin says (⌒_⌒) \nI don't really know what it means, though..."],
-            "christmas" : [("Christmas is really fun! I love giving gifts and tasty snacks to the lab members o (≧ ▽ ≦) o ",
-                            "\nKurisu is the only labomen who understands it, because she used to live in America. ",
-                            "\nSo she helps me with decorations, even though it annoys Okarin(^ ω ^) ",
-                            "\nIt's not really big in Japan, though. ")],
-            "sing it for me" : [("It's called \"Daisy.\"\n\nDaisy, Daisy, give me your answer do. I'm half crazy all for the love of you. "
-                "It won't be a stylish marriage, I can't afford a carriage. But you'll look sweet upon the seat of a bicycle built for two.")]
+            "Gate of Steiner" : ["That's that silly expression that Okarin says (⌒_⌒) \nI don't really know what it means, though..."]
+            "christmas" : [("Christmas is really fun! I love giving gifts and tasty snacks to the lab members o (≧ ▽ ≦) o "
+                            "\nKurisu is the only labomen who understands it, because she used to live in America. "
+                            "\nSo she helps me with decorations, even though it annoys Okarin because the lab is so small(^ ω ^) "
+                            "\nIt's not really big in Japan, though. ")]
         }
 
 
