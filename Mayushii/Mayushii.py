@@ -43,12 +43,7 @@ class Mayushii:
             "blood type" : [("My blood type is O! (* ^ ω ^) ",
                             "\nI think that means I'm supposed to be 'confident, self-determined, strong-willed and intuitive'"
                             "\nand also 'self-centered, cold, unpredictable and a workaholic', "
-                            "\nbut I don't really think that's true. -_-")],
-            "Gate of Steiner" : ["That's that silly expression that Okarin says (⌒_⌒) \nI don't really know what it means, though..."]
-            "christmas" : [("Christmas is really fun! I love giving gifts and tasty snacks to the lab members o (≧ ▽ ≦) o "
-                            "\nKurisu is the only labomen who understands it, because she used to live in America. "
-                            "\nSo she helps me with decorations, even though it annoys Okarin because the lab is so small(^ ω ^) "
-                            "\nIt's not really big in Japan, though. ")]
+                            "\nbut I don't really think that's true. -_-")]
         }
 
 
