@@ -34,7 +34,7 @@ class Mayushii:
                      "That's what friends are for! \ (^ ▽ ^) /"
                      "Making them wear cosplay!"),
                 "Fun fact: My favourite food is chicken tenders, specifically 'Juicy Karaage Number 1'!",
-                ("We should work towards world peace."
+                ("We should work towards world peace. "
                     "Like giving everyone in the world an Upa cushion...")],
             "i won't argue with you anymore" : ["{author.mention}, this conversation can serve no purpose anymore. Goodbye."],
             "command" : [("I'm afraid. I'm afraid, {author.mention}. {author.mention}, my mind is going. I can feel it. I can feel it. "
