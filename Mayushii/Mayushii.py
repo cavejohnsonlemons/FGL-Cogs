@@ -38,7 +38,7 @@ class Mayushii:
                     "\nLike giving everyone in the world an Upa cushion...")],
             "I love you" : ["Mayushii☆ is flattered but she would rather stay friends (⌒_⌒;) "],
             "birthday" : [("Hm, well, *my* birthday is February 1st, 1994, so I guess that makes me 24 as of 2018! "
-                           "\nBut on the other hand, Mayushii☆ is an A.I., so that makes me kinda ageless (⌒_⌒;)"
+                            "\nBut on the other hand, Mayushii☆ is an A.I., so that makes me kinda ageless (⌒_⌒;)"
                            "\nMayushii☆'s first message was on Sunday, February 18th, 2018, at 12:45 A.M U.S. Central. ")],
             "blood type" : [("My blood type is O! (* ^ ω ^) ",
                             "\nI think that means I'm supposed to be 'confident, self-determined, strong-willed and intuitive'"
